@@ -1,4 +1,4 @@
-local REPO = "https://raw.githubusercontent.com/Jammersmurph/CC-NavTool"
+local REPO = "https://raw.githubusercontent.com/cody206/CC-NavTool"
 
 local choices = {
   { label = "NavTool Server", branch = "main", path = "aircraft", kind = "server", group = "Stable" },
