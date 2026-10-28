@@ -1,6 +1,6 @@
 -- CC-NavTool onboard installer
 local ROOT = "/navtool"
-local BASE = "https://raw.githubusercontent.com/Jammersmurph/CC-NavTool/develop/aircraft/"
+local BASE = "https://raw.githubusercontent.com/cody206/CC-NavTool/develop/aircraft/"
 local FILES = {
   { remote = "navtool.lua", localPath = ROOT .. "/navtool.lua" },
   { remote = "runtime.lua", localPath = ROOT .. "/runtime.lua" },
