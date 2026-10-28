@@ -18,7 +18,7 @@ pastebin run tZLw4tnD
 GitHub installer:
 
 ```text
-wget run https://raw.githubusercontent.com/cody206/CC-NavTool/develop/pastebin-installer.lua
+wget run https://raw.githubusercontent.com/cody206/CC-NavTool/main/pastebin-installer.lua
 ```
 
 The installer opens a TUI with arrow-key selection:
