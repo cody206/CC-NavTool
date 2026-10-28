@@ -1,6 +1,6 @@
 -- CC-NavTool installer
 local ROOT = "/navtool"
-local BASE = "https://raw.githubusercontent.com/Jammersmurph/CC-NavTool/develop/"
+local BASE = "https://raw.githubusercontent.com/cahillcody58-cpu/CC-NavTool/develop/"
 local FILES = {
   { remote = "navtool.lua", localPath = ROOT .. "/navtool.lua" },
   { remote = "pocket.lua", localPath = ROOT .. "/pocket.lua" },
