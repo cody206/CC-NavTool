@@ -3,7 +3,7 @@ local VERSION = "0.5.10"
 local ROOT = "/navtool"
 local CONFIG_PATH = ROOT .. "/config.lua"
 local STATE_PATH = ROOT .. "/state.lua"
-local REPO_RAW = "https://raw.githubusercontent.com/Jammersmurph/CC-NavTool/develop/"
+local REPO_RAW = "https://raw.githubusercontent.com/cody206/CC-NavTool/develop/"
 local args = { ... }
 
 if fs.exists(ROOT .. "/runtime.lua") then
